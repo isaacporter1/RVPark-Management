@@ -1,3 +1,5 @@
+This was a Mock RV Park Management System for a local RV Park
+
 git commands 
 
 - git clone https://github.com/CS3750-Team3/RVPark.git - If you do not have any type or branch of the remote repo "RVPark" on your computer, use this command
